@@ -1,4 +1,6 @@
-adbthree
-========
+E6111 Advanced Database System - Project3
 
-Associate Rule Mining Algorithm
+Team Member
+-----------
+Yu		Zheng	(yz2583)
+Jingyi	Guo		(jg3421)
